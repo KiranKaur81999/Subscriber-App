@@ -1,0 +1,34 @@
+.AddSub{
+    
+    display:auto;
+    width:100%;
+    background-color:black;
+    color:white;
+    padding:5px 15px;
+    font-size:20px;
+    margin-bottom:50px;
+    text-align: center;
+}
+
+.Input{
+    margin:50px;
+    text-align: left;
+    padding: 5px 15px;
+    
+}
+
+.Button{
+    background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+}
+
+.b{
+    color: navy;
+    font-size: 14px;
+}
